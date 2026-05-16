@@ -1,7 +1,6 @@
 # LocalConvert 🚀
 
-Sistem konversi file lokal — mirip iLovePDF tapi **berjalan di komputer sendiri**.
-Tanpa batas file, tanpa internet, tanpa data keluar dari perangkatmu.
+Sistem konversi file lokal 
 
 ## Fitur Konversi
 
